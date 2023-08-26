@@ -1,0 +1,87 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.font-white{
+    color: white;
+}
+
+.h-50{
+    height: 50vh;
+}
+
+.h-17{
+    height: 16.4vh;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.col{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.box{
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.auto-size{
+    flex-grow: 1;
+}
+
+.box-birutua{
+    background-color: blue;
+}
+
+.box-hitam{
+    
+    width: 66vw;
+    background-color: black;
+}
+
+.box-coklat{
+    background-color: rgb(98, 72, 47);
+}
+
+.box-pink{
+    background-color: pink;
+}
+
+.box-biru{
+    background-color: lightblue;
+    height: 20vh;
+}
+
+.box-kuning{
+    background-color: yellow;
+}
+
+.box-merah{
+    background-color: red;
+}
+
+.box-hijau{
+    background-color: rgb(0, 255, 0);
+}
+
+.box-ungu{
+    background-color: purple;
+}
+
+.box-orange{
+    background-color: orange;
+}
+
+.box-abu{
+    background-color: grey;
+}
+

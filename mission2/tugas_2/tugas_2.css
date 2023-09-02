@@ -114,7 +114,7 @@ button.btn:hover {
 #scoreDisplay {
   font-weight: bold;
   position: relative;
-  bottom: 90px;
+  bottom: 150px;
   left: 450px;
 
   color: yellowgreen;
